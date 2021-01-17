@@ -6,7 +6,7 @@ import { LightningElement } from 'lwc';
 //fifth
 //sixth
 //seventh
-//tenth
+//tenth one
 export default class HelloWorld extends LightningElement {
   greeting = 'World';
   changeHandler(event) {
